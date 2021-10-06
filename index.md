@@ -1,25 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Cyber Patriot Training
 
-You can use the [editor on GitHub](https://github.com/billg15/Windows10.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this website to help you during Cyber Patriot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Checklists & Answer Keys
 
-### Markdown
+Checklists is a list to check and make sure you have all the things done and what needs to get done.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# Windows 10
+- Windows 10 Checklist
+- Windows 10 Answer Key
+# Windows Server
+- Windows Server Checklist
+- Windows Server Answer Key
+# Linix - Debian
+- Linix - Debian Checklist
+- Linix - Debian Answer Key
 
 **Bold** and _Italic_ and `Code` text
 
