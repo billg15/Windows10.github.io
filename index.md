@@ -7,7 +7,7 @@ You can use this website to help you during Cyber Patriot
 Checklists is a list to check and make sure you have all the things done and what needs to get done.
 
 # Windows 10
-- [Windows 10 Checklist](https://drive.google.com/file/d/1SwPLHt_jBnbAzW5wwDfwc6nO6_DRS09p/view)
+- [Windows 10 Checklist](dan-w10.png)
 - Windows 10 Answer Key
 # Windows Server
 - Windows Server Checklist
