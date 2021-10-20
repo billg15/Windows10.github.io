@@ -10,9 +10,11 @@ Checklists is a list to check and make sure you have all the things done and wha
 - [Windows 10 Checklist](dan-w10.png)
 - [Windows 10 Answer Key](CP-XIV_Windows10_Training_Answer_Key.pdf)
 - [Windows 10 Password Settings](Screenshot (1).png)
+
 # Windows Server
 - [Windows Server Checklist](windows server checklist.png)
 - [Windows Server Answer Key](
+
 # Linix - Debian
 - Linix - Debian Checklist
 - Linix - Debian Answer Key
