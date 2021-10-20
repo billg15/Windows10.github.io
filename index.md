@@ -19,12 +19,7 @@ Checklists is a list to check and make sure you have all the things done and wha
 - Linix - Debian Checklist
 - Linix - Debian Answer Key
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
